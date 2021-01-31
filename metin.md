@@ -12,7 +12,7 @@ Sunucu Verileri, (otomatik denetim, konfigürasyon ayarları vb.) için saklanı
 
 Kanal kimlikleri moderasyon (günlük kanalı, gelen giden kanalı vb.) ayarları için saklanır. 
 
-Kullanıcı Kimlikleri, denetleme eylemleri (sessize alma ve geçici yasaklama gibi) için saklanır.
+Kullanıcı Kimlikleri, ekonomi komutları için saklanır.
 
 Rol Kimlikleri, moderasyon (otomatik rol, kayıt rolü vb.) için saklanır.
 
