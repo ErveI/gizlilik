@@ -12,15 +12,26 @@ Electra'ya yaptığınız öneri, hata ve şikayet bildirimde, kullanıcı kimli
 
 Sunucunuzda eğer Electra'da yetkili ayarları yaptıysanız Electra sunucu ayarlarını saklar.
 
-# Bilgileri ne için kullanıyoruz?
+# Veriye neden ihtiyaç duyuyorsunuz?
+
+Sunucu bilgileri, botun sunucudaki ayarları kaydetmesi için ihtiyaç duymaktayız.
+
+Profil verileri, profilinize özel bilgiler konulabilmesi (Ekonomi bilgileri) için ihtiyaç duymaktayız.
+
+**Fakat botu kullanırken herhangi bir veri oluşturmamaktayız. Sadece sunucu verisi ve ekonomi profil verileri kaydetmekteyiz.**
+
+# Verileri ne için kullanıyoruz?
 
 Sunucu bilgileri, botun sunucudaki ayarları örneğin: log, prefix gibi verileri bilmesi için kullanılır.
 
-Profil verileri, profilinize özel bilgiler koyabilmemiz için saklanır.
+Profil verileri, profilinize özel bilgiler konulabilmesi için saklanır.
 
-# Bu verileri kim alır?
+# Bu verileri başkasıyla paylaşıyor musunuz?
 
-Electra'nın tüm verilerine sadece geliştirici erişebilir.
+Hayır. Önemli bir koşul olmadığı sürece kimseye verilerinizi **asla** paylaşmamaktayız. Fakat geliştirici herhangi bir kullanıcı verisine ya da sunucu verisine ihtiyaç duyarsa ulaşabilmektedir.
+
+# Geliştiriciyle nasıl iletişime geçebilirim?
+[destek sunucusundan](https://discord.gg/d3wkeaR) **ERVEL#0042** ile iletişime geçebilirsiniz veya **ervelgt@hotmail.com** emaili ile de geliştiriciyle iletişime geçebilirsiniz.
 
 # Verilerinizi nasıl kaldırabilirsiniz?
 [destek sunucusundan](https://discord.gg/d3wkeaR) Electra botun geliştricisi olan **ERVEL#0042** ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
