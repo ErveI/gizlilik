@@ -4,31 +4,21 @@ Electra'yı kullanarak aşağıdaki gizlilik politikasını kabul etmiş olursun
 
 # Hangi veriler saklanır?
 
-Herhangi bir zamanda botta kara listeye alınırsanız, kullanıcı kimliğiniz saklanacaktır.
-
-Electra'da ekonomi sistemini kullanırsanız, kullanıcı kimliğiniz saklanır.
-
-Electra'ya yaptığınız öneri, hata ve şikayet bildirimde, kullanıcı kimliğiniz saklanır.
-
-Sunucunuzda eğer Electra'da yetkili ayarları yaptıysanız Electra sunucu ayarlarını saklar.
+Sunucu Verileri, Kanal Verileri, Kullanıcı verileri ve Rol Verileri saklanabilmektedir.
 
 # Veriye neden ihtiyaç duyuyorsunuz?
 
-Sunucu bilgileri, botun sunucudaki ayarları kaydetmesi için ihtiyaç duymaktayız.
+Sunucu Verileri, (otomatik denetim, konfigürasyon ayarları vb.) için saklanır.
 
-Profil verileri, profilinize özel bilgiler konulabilmesi (Ekonomi bilgileri) için ihtiyaç duymaktayız.
+Kanal kimlikleri moderasyon (günlük kanalı, gelen giden kanalı vb.) ayarları için saklanır. 
 
-**Fakat botu kullanırken herhangi bir veri oluşturmamaktayız. Sadece sunucu verisi ve ekonomi profil verileri kaydetmekteyiz.**
+Kullanıcı Kimlikleri, denetleme eylemleri (sessize alma ve geçici yasaklama gibi) için saklanır.
 
-# Verileri ne için kullanıyoruz?
-
-Sunucu bilgileri, botun sunucudaki ayarları örneğin: log, prefix gibi verileri bilmesi için kullanılır.
-
-Profil verileri, profilinize özel bilgiler konulabilmesi için saklanır.
+Rol Kimlikleri, moderasyon (otomatik rol, kayıt rolü vb.) için saklanır.
 
 # Bu verileri başkasıyla paylaşıyor musunuz?
 
-Hayır. Önemli bir koşul olmadığı sürece kimseye verilerinizi **asla** paylaşmamaktayız. Fakat geliştirici herhangi bir kullanıcı verisine ya da sunucu verisine ihtiyaç duyarsa ulaşabilmektedir.
+Hayır. Kimseye verilerinizi paylaşmamaktayız. 
 
 # Geliştiriciyle nasıl iletişime geçebilirim?
 [Destek sunucusundan](https://discord.gg/d3wkeaR) **ERVEL#0042** ile iletişime geçebilirsiniz veya **ervelgt@hotmail.com** emaili ile de geliştiriciyle iletişime geçebilirsiniz.
