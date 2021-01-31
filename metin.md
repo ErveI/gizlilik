@@ -6,7 +6,7 @@ Electra'yı kullanarak aşağıdaki gizlilik politikasını kabul etmiş olursun
 
 Sunucu Verileri, Kanal Verileri, Kullanıcı verileri ve Rol Verileri saklanabilmektedir.
 
-# Veriye neden ihtiyaç duyuyorsunuz ve ne için kulllanıyorsunuz?
+# Veriye neden ihtiyaç duyuyorsunuz ve ne için kullanıyorsunuz?
 
 Sunucu Verileri, (otomatik denetim, konfigürasyon ayarları vb.) için saklanır.
 
