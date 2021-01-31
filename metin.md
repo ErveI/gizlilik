@@ -31,13 +31,13 @@ Profil verileri, profilinize özel bilgiler konulabilmesi için saklanır.
 Hayır. Önemli bir koşul olmadığı sürece kimseye verilerinizi **asla** paylaşmamaktayız. Fakat geliştirici herhangi bir kullanıcı verisine ya da sunucu verisine ihtiyaç duyarsa ulaşabilmektedir.
 
 # Geliştiriciyle nasıl iletişime geçebilirim?
-[destek sunucusundan](https://discord.gg/d3wkeaR) **ERVEL#0042** ile iletişime geçebilirsiniz veya **ervelgt@hotmail.com** emaili ile de geliştiriciyle iletişime geçebilirsiniz.
+[Destek sunucusundan](https://discord.gg/d3wkeaR) **ERVEL#0042** ile iletişime geçebilirsiniz veya **ervelgt@hotmail.com** emaili ile de geliştiriciyle iletişime geçebilirsiniz.
 
 # Verilerinizi nasıl kaldırabilirsiniz?
-[destek sunucusundan](https://discord.gg/d3wkeaR) Electra botun geliştricisi olan **ERVEL#0042** ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
+[Destek sunucusundan](https://discord.gg/d3wkeaR) Electra botun geliştricisi olan **ERVEL#0042** ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
 
 Fakat kara liste verilerini ancak geliştirici kaldırmayı uygun görürse kaldırır.
 
 
-Not: Kullanıcılarımıza haber vermeden bunu değiştirme hakkını saklı tutarız.
-Bu politika en son 31 Ocak 2021 tarihinde güncellenmiştir.
+**Not: Kullanıcılarımıza haber vermeden bunu değiştirme hakkını saklı tutarız.
+Bu politika en son 31 Ocak 2021 tarihinde güncellenmiştir.**
