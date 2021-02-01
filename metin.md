@@ -29,5 +29,5 @@ Hayır. Kimseye verilerinizi paylaşmamaktayız.
 Fakat kara liste verilerini ancak geliştirici kaldırmayı uygun görürse kaldırır.
 
 
-**Not: Kullanıcılarımıza haber vermeden bunu değiştirme hakkını saklı tutarız.
+**Not: Kullanıcılarımıza haber vermeksizin bunu değiştirme hakkını saklı tutarız.
 Bu politika en son 31 Ocak 2021 tarihinde güncellenmiştir.**
